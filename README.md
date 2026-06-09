@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Open_to-Freelance_%26_Collab-00C2FF?style=for-the-badge" />
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme-with-badges/master/assets/rainbow.png" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=100%" />
 
 <!-- ===== ABOUT ===== -->
 ## 👋 &nbsp;About Me
@@ -34,7 +34,7 @@ const reigner: Developer = {
 };
 ```
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme-with-badges/master/assets/rainbow.png" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=100%" />
 
 <!-- ===== TECH ===== -->
 ## 🛠️ &nbsp;Tech Arsenal
@@ -52,7 +52,7 @@ const reigner: Developer = {
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme-with-badges/master/assets/rainbow.png" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=100%" />
 
 <!-- ===== FEATURED ===== -->
 ## 🚀 &nbsp;Featured Build
@@ -70,13 +70,13 @@ const reigner: Developer = {
   </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme-with-badges/master/assets/rainbow.png" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=100%" />
 
 <!-- ===== STATS ===== -->
 ## 📊 &nbsp;GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=reignerkevinbarillo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C2FF&icon_color=7B2FF7" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=reignerkevinbarillo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C2FF&icon_color=7B2FF7&cache_seconds=86400" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reignerkevinbarillo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C2FF&langs_count=8" />
 </div>
 
@@ -94,10 +94,10 @@ const reigner: Developer = {
 
 <!-- ===== SNAKE ===== -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/reignerkevinbarillo/reignerkevinbarillo/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/reignerkevinbarillo/profile/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme-with-badges/master/assets/rainbow.png" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=100%" />
 
 <!-- ===== EDUCATION ===== -->
 ## 🎓 &nbsp;Education & Highlights
@@ -107,7 +107,7 @@ const reigner: Developer = {
 - 🌐 **Google Developer Student Clubs** — Active member, Xavier University (2020–2022)
 - 🗣️ **Languages** — English · Cebuano · Filipino
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme-with-badges/master/assets/rainbow.png" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=100%" />
 
 <!-- ===== CONNECT ===== -->
 ## 🤝 &nbsp;Let's Connect
