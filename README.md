@@ -76,16 +76,7 @@ const reigner: Developer = {
 ## 📊 &nbsp;GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?user=reignerkevinbarillo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C2FF&icon_color=7B2FF7&cache_seconds=86400" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?user=reignerkevinbarillo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C2FF&langs_count=8" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=reignerkevinbarillo&theme=tokyonight&hide_border=true&background=0d1117&ring=00C2FF&fire=7B2FF7&currStreakLabel=00C2FF" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?user=reignerkevinbarillo&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
 </div>
 
 <div align="center">
