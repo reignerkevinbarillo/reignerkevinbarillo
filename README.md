@@ -1,116 +1,99 @@
-<!-- ===== HERO ===== -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Reigner%20Kevin%20Barillo&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20building%20production-ready%20web%20apps&descAlignY=56&descSize=18" />
+<!-- ===== HEADER ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7B2FF7&height=200&section=header&text=Reigner%20Kevin%20Barillo&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Next.js%20%C2%B7%20Node.js%20%C2%B7%20Supabase&descAlignY=58&descSize=18" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00C2FF&center=true&vCenter=true&width=560&lines=I+turn+ideas+into+shipped+products;Next.js+%E2%80%A2+Node.js+%E2%80%A2+Supabase;From+database+architecture+to+polished+UI;Clean+code.+Snappy+UIs.+Green+deploys.+%E2%9C%94" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=540&lines=Turning+ideas+into+production-ready+products+%E2%9A%A1;Next.js+%2B+TypeScript+enthusiast;From+database+architecture+to+polished+UI;Clean+code%2C+snappy+UIs%2C+that+green+deploy+%E2%9C%94" alt="Typing SVG" />
+</p>
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=reignerkevinbarillo&label=Profile+Views&color=00C2FF&style=for-the-badge" />
-    <img src="https://img.shields.io/github/followers/reignerkevinbarillo?label=Followers&style=for-the-badge&color=7B2FF7" />
-    <img src="https://img.shields.io/badge/Based_in-Philippines_%F0%9F%87%B5%F0%9F%87%AD-1f2937?style=for-the-badge" />
-  </p>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=reignerkevinbarillo&label=Profile%20Views&color=00C2FF&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/reignerkevinbarillo?label=Followers&style=for-the-badge&color=7B2FF7" />
+  <img src="https://img.shields.io/badge/Location-Philippines%20%F0%9F%87%B5%F0%9F%87%AD-00C2FF?style=flat" alt="Location" />
+</p>
 
 <br>
 
 <!-- ===== ABOUT ===== -->
-### 👋 &nbsp;Hey, I'm Reigner
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> About Me
 
-Full-stack developer who turns ideas into **production-ready products**, from database
-architecture all the way to polished UI. I write clean code, build responsive interfaces,
-and actually communicate throughout the build. Currently freelancing and shipping client
-apps end to end.
-
-```ts
-const reigner: Developer = {
+```js
+const reigner = {
   role: "Full-Stack Developer",
-  location: "Kitcharao, Agusan del Norte 🇵🇭",
-  building: "Clinic Management System — Next.js + Node + Supabase",
+  location: "Kitcharao, Agusan del Norte, Philippines",
   frontend: ["Next.js", "Nuxt.js", "Vue", "React", "TypeScript"],
-  backend:  ["Node.js", "Laravel", "CodeIgniter", "PHP"],
-  data:     ["PostgreSQL (Supabase)", "MySQL"],
+  backend: ["Node.js", "Laravel", "CodeIgniter", "PHP"],
+  databases: ["PostgreSQL (Supabase)", "MySQL"],
   sideQuest: "Freelance WordPress Developer",
-  openTo: "freelance & collab — reignerkevinofficial@gmail.com",
+  mindset: "Treats bugs like puzzles, ships features like a sport",
+  obsession: ["clean code", "responsive design", "that green deploy ✔"],
+  currentlyBuilding: "Clinic Management System (Next.js + Node + Supabase)",
+  inbox: "reignerkevinofficial@gmail.com", // always open
 };
 ```
 
-<br>
+<br><!-- ===== TECH STACK ===== --><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Tech Arsenal
+<p align="center">
 
-<!-- ===== TECH ===== -->
-### 🛠️ &nbsp;Tech I Build With
+  <img src="https://skillicons.dev/icons?i=ts,js,php,html,css&theme=dark" />
 
-<div align="center">
+  <br>
 
-`Languages`<br>
-<img src="https://skillicons.dev/icons?i=ts,js,php,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,vue,nuxtjs,nodejs&theme=dark" />
 
-`Frameworks & Frontend`<br>
-<img src="https://skillicons.dev/icons?i=nextjs,react,vue,nuxtjs,nodejs,express&theme=dark" />
+  <br>
 
-`Backend, Data & Tools`<br>
-<img src="https://skillicons.dev/icons?i=laravel,postgres,supabase,mysql,git,github,postman,wordpress&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=laravel,postgres,supabase,mysql,git,github,postman,wordpress&theme=dark" />
 
-</div>
+</p><br><!-- ===== FEATURED PROJECT ===== --><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Featured Build
 
-<br>
 
-<!-- ===== FEATURED ===== -->
-### 🚀 &nbsp;Featured Build
+🏥 Clinic Management System  ·  Next.js Node.js Supabase / PostgreSQL
 
-<table>
-  <tr>
-    <td width="60">🏥</td>
-    <td>
-      <b>Clinic Management System</b> &nbsp;·&nbsp; <code>Next.js</code> <code>Node.js</code> <code>Supabase</code><br>
-      Built from scratch: appointments, patient records, prescriptions, staff directories,
-      and customizable medical-record templates. Fully responsive, with structured testing
-      before every handoff.
-    </td>
-  </tr>
-</table>
 
-<br>
 
-<!-- ===== STATS ===== -->
-### 📊 &nbsp;GitHub Stats
+Architected and built from scratch: appointments, patient records, prescriptions, staff
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=reignerkevinbarillo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C2FF&icon_color=7B2FF7" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reignerkevinbarillo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C2FF&langs_count=8" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reignerkevinbarillo&theme=tokyonight&hide_border=true&background=0d1117&ring=00C2FF&fire=7B2FF7&currStreakLabel=00C2FF" />
-</div>
+directories, and customizable medical record templates. Responsive across mobile, tablet,
 
-<!-- ===== SNAKE ===== -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/reignerkevinbarillo/reignerkevinbarillo/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+and desktop, with structured testing workflows before every handoff.
 
-<br>
+<br><!-- ===== GITHUB STATS ===== --><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> GitHub Stats
+<p align="center">
 
-<!-- ===== EDUCATION & AWARDS ===== -->
-### 🎓 &nbsp;Education & Highlights
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=reignerkevinbarillo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
 
-- 🎓 **B.S. Information Technology**, Major in Software Development — *Central Mindanao University, 2024*
-- 🏆 **Regional Finalist** — Philippine Start-Up Challenge 7 (2022)
-- 🌐 **Google Developer Student Clubs** — Active member, Xavier University (2020–2022)
-- 🗣️ **Languages** — English · Cebuano · Filipino
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reignerkevinbarillo&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
 
-<br>
+</p><p align="center">
 
-<!-- ===== CONNECT ===== -->
-### 🤝 &nbsp;Let's Connect
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=reignerkevinbarillo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
-<div align="center">
+</p><!-- ===== SNAKE ===== --><p align="center">
+
+  <img src="https://raw.githubusercontent.com/reignerkevinbarillo/profile/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</p><br><!-- ===== EDUCATION & AWARDS ===== --><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Education & Awards
+
+
+🎓 B.S. Information Technology — Major in Software Development · Central Mindanao University, 2024
+
+🏆 Regional Finalist — Philippine Start-Up Challenge 7 (2022)
+
+🌐 Google Developer Student Clubs — Active member, Xavier University (2020 – 2022)
+
+🗣️ Languages — English · Cebuano · Filipino
+
+<br><!-- ===== CONTACT ===== --><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Let's Connect
+<p align="center">
+
   <a href="mailto:reignerkevinofficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
   <a href="https://www.linkedin.com/in/reigner-kevin-barillo-962109238/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
   <a href="https://github.com/reignerkevinbarillo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
   <a href="https://facebook.com/adiyakusugopandaki"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+
   <a href="https://instagram.com/kur0oooooo"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</div>
 
-<br>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&text=Always%20learning%2C%20always%20shipping%20%F0%9F%9A%80&fontSize=20&fontColor=ffffff&fontAlignY=68" />
-</div>
+</p><!-- ===== FOOTER ===== --><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:00C2FF&height=120&section=footer&text=Always%20learning,%20always%20shipping%20%F0%9F%9A%80&fontSize=20&fontColor=ffffff&fontAlignY=70" />
