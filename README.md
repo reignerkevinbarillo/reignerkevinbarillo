@@ -54,24 +54,6 @@ const reigner: Developer = {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=100%" />
 
-<!-- ===== FEATURED ===== -->
-## 🚀 &nbsp;Featured Build
-
-<table align="center">
-  <tr>
-    <td align="center" width="80" style="font-size:32px">🏥</td>
-    <td>
-      <b>Clinic Management System</b><br>
-      <code>Next.js</code> <code>Node.js</code> <code>Supabase / PostgreSQL</code><br><br>
-      Built end to end: appointments, patient records, prescriptions, staff directories,
-      and customizable medical-record templates. Fully responsive across mobile, tablet,
-      and desktop, with structured testing before every handoff.
-    </td>
-  </tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=100%" />
-
 <!-- ===== STATS ===== -->
 ## 📊 &nbsp;GitHub Stats
 
